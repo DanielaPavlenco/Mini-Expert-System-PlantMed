@@ -18,7 +18,7 @@ Această aplicație permite utilizatorilor să introducă simptomele observate l
 1. **Clonează acest repository pe computerul tău:**
 
     ```bash
-    git clone https://github.com/utilizator/PlantMed.git
+    git clone https://github.com/DanielaPavlenco/Mini-Expert-System-PlantMed.git
     ```
 
 2. **Instalează dependențele Python:**
