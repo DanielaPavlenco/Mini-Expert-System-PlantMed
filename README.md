@@ -9,8 +9,8 @@ Această aplicație permite utilizatorilor să introducă simptomele observate l
 ## Caracteristici
 
 - Introducerea simptomelor plantelor pentru diagnostic
-  ![Imagine1](![![Screenshot 2024-04-03 162736](https://github.com/DanielaPavlenco/Mini-Expert-System-PlantMed/assets/101560755/fc978835-2b00-44ab-acf6-2d9d7201029a)
-])
+  ![Imagine1](https://github.com/DanielaPavlenco/Mini-Expert-System-PlantMed/assets/101560755/fc978835-2b00-44ab-acf6-2d9d7201029a)
+
 - Afișarea bolilor asociate simptomelor introduse
 - Furnizarea de imagini relevante pentru bolile identificate
 - Funcționalitatea de a șterge simptomele și de a introduce altele noi
