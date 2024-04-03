@@ -15,13 +15,23 @@ Această aplicație permite utilizatorilor să introducă simptomele observate l
 
 ## Instalare
 
-1. Clonează acest repository pe computerul tău:
-git clone https://github.com/utilizator/PlantMed.git
+1. **Clonează acest repository pe computerul tău:**
 
-Instalează dependențele Python:
-pip install -r requirements.txt
+    ```bash
+    git clone https://github.com/utilizator/PlantMed.git
+    ```
 
-Rulează aplicația:
-python plant_disease_diagnosis.py
+2. **Instalează dependențele Python:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. **Rulează aplicația:**
+
+    ```bash
+    python plant_disease_diagnosis.py
+    ```
+
 
 
