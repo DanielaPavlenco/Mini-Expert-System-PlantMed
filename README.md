@@ -15,7 +15,7 @@ Această aplicație permite utilizatorilor să introducă simptomele observate l
 
 ## Instalare
 
-1. Clonează acest repository pe computerul tău:
+ Clonează acest repository pe computerul tău:
 
 ```bash
 git clone https://github.com/utilizator/PlantMed.git
